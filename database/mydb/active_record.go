@@ -1,4 +1,4 @@
-package mysql
+package mydb
 
 //func (db *DB) GetResult(column, table string, where map[string]interface{}) (ar *ActiveRecord) {
 //	ar = new(ActiveRecord)

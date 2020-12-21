@@ -1,4 +1,4 @@
-package mysql
+package mydb
 
 type Config struct {
 	Host     string
